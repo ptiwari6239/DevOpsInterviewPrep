@@ -1,2 +1,2 @@
-## DevOps Interview Preparation with this repos
+## DevOps Interview Preparation with this repo
 
